@@ -51,5 +51,5 @@ We may update our Privacy Policy. We will notify you of any changes by posting t
 
 ## 9. Contact Us
 If you have any questions about this Privacy Policy, please contact us:
-*   By visiting our support/issues page: https://github.com/asiseeit/staying_alive/issues
+*   By visiting our support/issues page: https://github.com/babamedia-droid/staying-alive-legal/issues
 
